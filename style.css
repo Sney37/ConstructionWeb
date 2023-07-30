@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.firstlink{
+    text-decoration: none;
+}
+.fa-brands{
+  margin-right: 1rem;
+}
+.nav-item{
+    margin-right: 10px;
+    text-size-adjust: 4rem;
+    font-weight: bold;
+  }
+  .fa-brands
+  {
+    font-size: 24px;
+  }
+  .menulink{
+    margin-block: 1rem;
+  }
+  
+  a{
+    width: 11rem;
+  }
+  .card1{
+    height: 50%;
+  }
+  .salute1img{
+    height: 30%;
+  }
+  .hometext{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    font-size:3rem;
+  }
+  p1{
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+  
+  
